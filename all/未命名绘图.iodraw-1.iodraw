@@ -10,6 +10,12 @@
         <mxCell id="l4aAwxKNo0eAjQqGnqMj-2" value="电价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l4aAwxKNo0eAjQqGnqMj-3" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4aAwxKNo0eAjQqGnqMj-4" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
